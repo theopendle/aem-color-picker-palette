@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/tipi/components/content/datasourcedemo,/a
+ pps/tipi/datasources/colors
+Content-Package-Type: application
+Content-Package-Id: my_packages:aem-color-picker-palette
+
